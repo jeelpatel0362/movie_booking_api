@@ -28,8 +28,13 @@ Backend
 - **PDO** - Database access layer
 
 ## Screenshots 📸
-<img width="500" height="231" alt="6" src="https://github.com/user-attachments/assets/1e8195d6-f70f-425c-8566-d60596793931" />
 
-| Dashboard | Login Screen | SignUp Screen | Forget Password Screen | SignIn With Google |
-|---------------|-------------|------------|------|---------|
-| <img src="https://github.com/user-attachments/assets/9049254a-f339-49ee-851e-2e59c94a4392" width="500" height="231"> | <img width="500" height="231" alt="2" src="https://github.com/user-attachments/assets/aa7e32da-2a67-440a-883c-90f43e9bd4a7" /> | <img width="500" height="231" alt="3" src="https://github.com/user-attachments/assets/4d0647b8-77d7-4913-8df3-833725db75dd" /> |<img width="500" height="231" alt="4" src="https://github.com/user-attachments/assets/e771735a-fca2-4dbb-b8e1-e2da58b6df33" /> | <img width="500" height="231" alt="5" src="https://github.com/user-attachments/assets/fe9deb90-a2e0-4f9d-8600-ccd568589eac" /> |
+<img width="600" height="300" alt="1" src="https://github.com/user-attachments/assets/57a94e57-a0ff-4c38-801c-07518a6f6525" />
+<img width="600" height="300" alt="2" src="https://github.com/user-attachments/assets/22132353-497e-4de6-b0c7-87a8ba9aba52" />
+<img width="600" height="300" alt="3" src="https://github.com/user-attachments/assets/fafc2286-b8bd-4f7a-b26a-30804f66ced8" />
+<img width="600" height="300" alt="4" src="https://github.com/user-attachments/assets/c9185682-4af5-44b9-ac79-0b2b1f1f302f" />
+<img width="600" height="300" alt="5" src="https://github.com/user-attachments/assets/3f9b8b96-65b9-4daf-95bd-8ee522a3ae6b" />
+<img width="600" height="300" alt="6" src="https://github.com/user-attachments/assets/522571d6-82c6-4f15-9a2b-0a133a536fab" />
+
+
+
