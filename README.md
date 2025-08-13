@@ -15,8 +15,6 @@ A modern, responsive, and user-friendly **Admin Dashboard** for managing a Movie
 - **Booking Management:** Track and manage customer bookings  
 - **Responsive Design:** Works on both desktop and mobile devices  
 - **Modern UI:** Clean interface with dark/light theme support  
-- **Real-time Feedback:** Toast notifications for user actions  
-
 ---
 
 ## 🛠️ Technologies Used
