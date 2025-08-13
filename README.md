@@ -28,13 +28,8 @@ Backend
 - **PDO** - Database access layer
 
 ## Screenshots 📸
-<img width="500" height="231" alt="1" src="https://github.com/user-attachments/assets/9049254a-f339-49ee-851e-2e59c94a4392" />
-<img width="500" height="231" alt="2" src="https://github.com/user-attachments/assets/aa7e32da-2a67-440a-883c-90f43e9bd4a7" />
-<img width="500" height="231" alt="3" src="https://github.com/user-attachments/assets/4d0647b8-77d7-4913-8df3-833725db75dd" />
-<img width="500" height="231" alt="4" src="https://github.com/user-attachments/assets/e771735a-fca2-4dbb-b8e1-e2da58b6df33" />
-<img width="500" height="231" alt="5" src="https://github.com/user-attachments/assets/fe9deb90-a2e0-4f9d-8600-ccd568589eac" />
 <img width="500" height="231" alt="6" src="https://github.com/user-attachments/assets/1e8195d6-f70f-425c-8566-d60596793931" />
 
-| Splash Screen | Login Screen | SignUp Screen | Forget Password Screen | SignIn With Google |
+| Dashboard | Login Screen | SignUp Screen | Forget Password Screen | SignIn With Google |
 |---------------|-------------|------------|------|---------|
-| <img src="https://github.com/user-attachments/assets/9049254a-f339-49ee-851e-2e59c94a4392" width="500" height="231"> | <img src="https://github.com/user-attachments/assets/2e2dc646-735b-4045-8041-e8ba1fb7e85f" width="200"> | <img src="https://github.com/user-attachments/assets/42d0686f-1e4f-494f-899d-063e555f9293" width="200"> | <img src="https://github.com/user-attachments/assets/7acfa892-e265-49fe-b1ab-7e55f8a7933d" width="200"> | <img src="https://github.com/user-attachments/assets/c139e82c-4711-4b85-8132-33c962eda08b" width="200"> |
+| <img src="https://github.com/user-attachments/assets/9049254a-f339-49ee-851e-2e59c94a4392" width="500" height="231"> | <img width="500" height="231" alt="2" src="https://github.com/user-attachments/assets/aa7e32da-2a67-440a-883c-90f43e9bd4a7" /> | <img width="500" height="231" alt="3" src="https://github.com/user-attachments/assets/4d0647b8-77d7-4913-8df3-833725db75dd" /> |<img width="500" height="231" alt="4" src="https://github.com/user-attachments/assets/e771735a-fca2-4dbb-b8e1-e2da58b6df33" /> | <img width="500" height="231" alt="5" src="https://github.com/user-attachments/assets/fe9deb90-a2e0-4f9d-8600-ccd568589eac" /> |
