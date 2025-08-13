@@ -28,7 +28,7 @@ Backend
 - **PDO** - Database access layer
 
 ## Screenshots 📸
-<img width="1200" height="600" alt="1" src="https://github.com/user-attachments/assets/9049254a-f339-49ee-851e-2e59c94a4392" />
+<img width="500" height="300" alt="1" src="https://github.com/user-attachments/assets/9049254a-f339-49ee-851e-2e59c94a4392" />
 <img width="1200" height="600" alt="2" src="https://github.com/user-attachments/assets/aa7e32da-2a67-440a-883c-90f43e9bd4a7" />
 <img width="1200" height="600" alt="3" src="https://github.com/user-attachments/assets/4d0647b8-77d7-4913-8df3-833725db75dd" />
 <img width="1200" height="600" alt="4" src="https://github.com/user-attachments/assets/e771735a-fca2-4dbb-b8e1-e2da58b6df33" />
